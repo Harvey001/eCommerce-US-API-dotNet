@@ -1,0 +1,19 @@
+Version 1.1.0
+ 
+	- Initial release
+	
+	Supports the following additional transactions types:
+	- USL23Data
+
+Version 1.1.0
+ 
+	- Initial release
+	
+	Supports the following additional transactions types:
+	- USL23Completion
+	- USL23PurchaseCorrection
+	- USL23IndependentRefund
+	- USL23Refund
+	- USL23Forcepost
+	- USL23IsCorporateCard
+
